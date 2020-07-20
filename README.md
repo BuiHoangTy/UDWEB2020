@@ -4,7 +4,7 @@ Thành viên
 Mssv: 44.01.104.063
 Sdt: 0338442031
 2. Tên: Bùi Hoàng Tỷ
-Msss: 44.01.104.039
+Mssv: 44.01.104.039
 Sđt: 0396132304
 3. Tên: Đoàn Trọng Hải Anh
 Mssv: 44.01.104.049 
